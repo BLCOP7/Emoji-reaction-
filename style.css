@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#emoji-container {
+    margin: 20px 0;
+}
+
+.emoji-btn {
+    font-size: 2rem;
+    margin: 5px;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    background: none;
+}
+
+#reaction-container {
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
